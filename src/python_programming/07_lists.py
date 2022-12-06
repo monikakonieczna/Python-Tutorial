@@ -1,3 +1,12 @@
+"""
+Lists:
+    collection of data
+    can contain any/all data types in a single list
+    can contain other collections (lists, dictionaries, tuples) as list items
+    mutable (items can be added, removed, changed)
+    maintain order (can use index to find an item)
+"""
+
 fruits = ["peaches", "pears", "apples", "apples", "apples"]
 years = [3, "1998", 2.5, 987, "1994"]
 
